@@ -62,8 +62,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/piyushdixitindia/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-<a href="https://github.com/piyush-dixit">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Singh's DEV Community Profile" height="30" width="30">
 <a href="https://www.instagram.com/piyushdixit7880/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
 <a href = "https://twitter.com/piyushd95840234">
