@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m currently working on UI/UX, Machine Learning.
-- 🌱 I’m currently learning IoT and Core Electronics.
+- 🔭 I’m currently working on UI/UX,(Frontend Developing).
+- 🌱 I’m currently learning Reacts js & React ts.
 
 
 ### 🛠 &nbsp;Languages and Tools
